@@ -30,3 +30,39 @@ ul>li>a{
     border-radius: 100%;
     border: 3px solid blue;
 }
+h1{
+    margin-top: 0px;
+    color: brown;
+   
+}
+h2{ 
+    color: chartreuse;
+    /* text-decoration: overline; */
+}
+.images{
+    background-color: #da4d4d;
+    height: 100vh; 
+    
+}
+.images>img{
+    justify-content: space-evenly;
+}
+.fig2>img:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+.figma>img:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+.fig2{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+.figma{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
