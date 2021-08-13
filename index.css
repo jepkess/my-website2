@@ -12,3 +12,21 @@ ul>li>a{
     text-decoration: none;
     color: aqua;
 }
+.container{
+    background-color: rgb(238, 199, 199);
+    display: block;
+    padding: 20px;
+    justify-content:space-evenly;
+    text-decoration: rgb(106, 151, 61);
+    width: 80%;
+    margin-left: 60px;
+    /* margin-right: 20px; */
+}
+.welcome{
+    display: flex;
+    justify-content: space-evenly;
+}
+.welcome>a>img{
+    border-radius: 100%;
+    border: 3px solid blue;
+}
