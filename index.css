@@ -1,0 +1,14 @@
+nav>ul>li{
+    display: inline;
+    margin: 5px ;
+    float:right;
+}
+.navbar{
+    background-color: rgb(3, 10, 31);
+    padding: 35px;
+    border-radius: 10px;
+}
+ul>li>a{
+    text-decoration: none;
+    color: aqua;
+}
