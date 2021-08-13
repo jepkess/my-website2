@@ -66,3 +66,17 @@ h2{
     justify-content: space-between;
     padding: 20px;
 }
+h3{
+    background-color: cyan;
+    color: darkred;
+    
+}
+.tech>h2{
+    text-align: center;
+    color: maroon;
+}
+.tech>p{
+    text-align: center;
+}
+.images>h3{
+    text-align: center;
