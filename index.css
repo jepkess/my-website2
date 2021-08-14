@@ -20,7 +20,7 @@ ul>li>a{
     text-decoration: rgb(106, 151, 61);
     width: 80%;
     margin-left: 60px;
-    /* margin-right: 20px; */
+    border-radius: 10px;
 }
 .welcome{
     display: flex;
@@ -99,4 +99,22 @@ h3{
     color: midnightblu;
     border-radius: 10px;
     
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    background-color: rgb(207, 25, 25)
+    margin: left 50px; ;
+    color: darkblue
+}
+.form>h1{
+    background-color: rgb(131, 131, 211);
+    padding: 5px;
+    width: 90%;
+    text-align: center;
+    border-radius: 10px;
+    
+
 }
