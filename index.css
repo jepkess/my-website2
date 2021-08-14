@@ -137,3 +137,17 @@ h3{
 #Registration-form>h2{
     color: rgb(202, 64, 64);
 }
+.mission{
+    background-color: greenyellow;
+    color:black;
+    padding: 2%;
+    text-align: center;
+    border-radius: 10px;
+}
+.vission{
+    background-color: chocolate;
+    color: black;
+    padding: 2%;
+    text-align: center;
+    border-radius: 10px;
+}
