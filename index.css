@@ -127,3 +127,13 @@ h3{
     align-items: center;
     
 }
+#register{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    /* justify-content: center; */
+    align-items: ;
+}
+#Registration-form>h2{
+    color: rgb(202, 64, 64);
+}
